@@ -5,6 +5,7 @@ A tool for "Network Engineers" to navigate through a device's Network Informatio
 1. **Windows Operating System**: The script is designed to run on Windows.
 2. **PowerShell**: Ensure PowerShell is installed on your system.
 
+
 ### Steps to Generate the Network Information Report:
 
 #### Method 1: Using PowerShell
