@@ -2,7 +2,7 @@
 A tool for "Network Engineers" to navigate through a device's Network Information faster.
 
 ### Prerequisites:
-1. **Windows Operating System**: The script is designed to run on Windows.
+1. **Windows Operating System**: The script is designed to run on Windows OS.
 2. **PowerShell**: Ensure PowerShell is installed on your system.
 
 
