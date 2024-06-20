@@ -1,4 +1,4 @@
-# NetworkInformationReport
+# Network Information Report
 
 A tool for "Network Engineers" to navigate through a device's Network Information faster.
 
